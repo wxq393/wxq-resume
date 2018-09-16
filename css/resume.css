@@ -134,15 +134,15 @@ li {
 
 
 .bg-fanyi {
-  background: url("http://wx3.sinaimg.cn/mw690/0060lm7Tly1fv9gi8klt2j30ku0yr0ua.jpeg") center center no-repeat;
+  background: url("https://wx3.sinaimg.cn/mw690/0060lm7Tly1fv9gi8klt2j30ku0yr0ua.jpeg") center center no-repeat;
 }
 
 .bg-daiban {
-  background: url("http://wx4.sinaimg.cn/mw690/0060lm7Tly1fv9hahcojbj31dc0tmmyz.jpg") center center no-repeat;
+  background: url("https://wx4.sinaimg.cn/mw690/0060lm7Tly1fv9hahcojbj31dc0tmmyz.jpg") center center no-repeat;
 }
 
 .bg-douban {
-  background: url("http://wx3.sinaimg.cn/mw690/0060lm7Tly1fv9h7mkfjuj30hm0uy77w.jpg") center center no-repeat;
+  background: url("https://wx3.sinaimg.cn/mw690/0060lm7Tly1fv9h7mkfjuj30hm0uy77w.jpg") center center no-repeat;
 }
 
 .bg-baby {
@@ -151,10 +151,6 @@ li {
 
 .bg-login {
   background: url("http://wx3.sinaimg.cn/mw690/0060lm7Tly1fv9i713iauj31kw0wsgw9.jpg") center center no-repeat;
-}
-
-.bg-canvas {
-  background: url("./canvas.jpg") center center no-repeat;
 }
 
 .bg {
