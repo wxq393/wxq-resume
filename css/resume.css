@@ -131,7 +131,9 @@ li {
 .canvas {
   border-bottom: none;
 }
-
+.bg-blog {
+  background: url("http://wx4.sinaimg.cn/mw690/0060lm7Tly1fvv23txlvoj31kw0u6mz8.jpg") center center no-repeat;
+}
 
 .bg-fanyi {
   background: url("https://wx3.sinaimg.cn/mw690/0060lm7Tly1fv9gi8klt2j30ku0yr0ua.jpeg") center center no-repeat;
